@@ -52,7 +52,6 @@ const Heading = styled(Box)({
   fontSize: "50px",
   marginBottom: "20px",
   textAlign: "center",
-  filter: `drop-shadow(-0px 0px 15px rgba(53, 42, 87, 0.3))`,
 })
 
 const BlogsPage = ({ data, readTime }) => (
