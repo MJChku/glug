@@ -11,8 +11,6 @@ export default function Layout({ children }) {
     <ThemeContext.Consumer>
       {theme => (
         <div>
-          <Box margin="0">
-            <Global />
             <Navbar />
             <Box
               marginTop="90px"
@@ -23,7 +21,6 @@ export default function Layout({ children }) {
               {children}
             </Box>
             <Footer className="footer"></Footer>
-          </Box>
         </div>
       )}
     </ThemeContext.Consumer>
