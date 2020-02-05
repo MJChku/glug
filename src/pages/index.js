@@ -12,12 +12,18 @@ const TT = styled(Text)({
   fontWeight: "bold",
   filter: "drop-shadow(-0px 0px 15px rgba(53, 42, 87, 0.3))",
   fontSize: "1.6em",
+  fontColor: "FB57B8"
 })
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <TT justifyContent="center" textAlign="center" fontWeight="500">
-            <strong> This the secret place where I write my stories...</strong>
+        <strong> 
+        {" "}    
+        This is the secret place where I write my stories...
+        {" "}
+  
+       </strong>
     </TT>
   
   </Layout>
