@@ -45,9 +45,9 @@ const Middle = () => (
   <Container>
     <Box width={[1, 1 / 2]} alignSelf="center" p={3}>
       <Heading>About...</Heading>
-      <Center>
+      <Right>
         The site is dedicated for my post.
-      </Center>
+      </Right>
     </Box>
     <Box width={[1, 1 / 2]} alignSelf="center" p={3}>
       <Left>
