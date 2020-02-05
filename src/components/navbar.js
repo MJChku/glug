@@ -13,7 +13,7 @@ const NavBar = styled.div`
   z-index: 200;
   height: 80px;
   align-items: center;
-  background-color: black;
+  background-color: white;
   box-shadow: 0 5px 30px rgba(127, 0, 255, 0.15);
 `
 
