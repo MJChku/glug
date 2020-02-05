@@ -132,7 +132,7 @@ const Footer = ({ siteTitle }) => (
           </Text>
         </Box>
       </Column>
-      <Copyright color="#2d3748" boxShadow="0 5px 30px rgba(127, 0, 255, 0.15)">
+      <Copyright color="#2d3748">
         <p>
           {" "}
           MJCooper © {new Date().getFullYear()} Contributed with{" "}
