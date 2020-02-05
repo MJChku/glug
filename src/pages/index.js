@@ -10,7 +10,6 @@ import styled from "styled-components"
 const TT = styled(Text)({
   fontFamily: "Montserrat",
   fontWeight: "bold",
-  filter: "drop-shadow(-0px 0px 15px rgba(53, 42, 87, 0.3))",
   fontSize: "1.6em",
   fontColor: "FB57B8"
 })
