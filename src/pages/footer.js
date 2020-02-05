@@ -105,23 +105,23 @@ const Footer = ({ siteTitle }) => (
       </Column>
       <Column>
         <Box padding="30px 0">
-          <Links href="https://github.com/crstnmac/glug">
+          <Links href="https://www.linkedin.com/in/jiacheng-ma-b3a601168/?originalSubdomain=hk">
             {" "}
-            <Lnks>GitHub</Lnks>
+            <Lnks>LinkedIn</Lnks>
           </Links>
 
-          <Links href="https://discuss.fsmk.org/">
-            <Lnks>Disqus</Lnks>
+          <Links href="https://mjcooper.netlify.com/">
+            <Lnks>CV site</Lnks>
           </Links>
-          <Links href="https://gist.github.com/crstnmac/8c7a493530ca799feb83487a5bd234f9">
-            <Lnks>Community Guidelines</Lnks>
-          </Links>
+//           <Links href="https://gist.github.com/crstnmac/8c7a493530ca799feb83487a5bd234f9">
+//             <Lnks>Community Guidelines</Lnks>
+//           </Links>
         </Box>
       </Column>
       <Column>
         <Box fontSize="1.6em" padding="40px 0" margin="20px">
           <Text justifyContent="center" textAlign="center" fontWeight="500">
-            <strong>Glug Infinite</strong>
+            <strong>MJCooper</strong>
           </Text>
 
           <Text
@@ -132,7 +132,7 @@ const Footer = ({ siteTitle }) => (
           >
             <strong>
               {" "}
-              Vivekananda College of Engineering and Technology,Puttur-574203
+              Love and Peace -971220
             </strong>
           </Text>
         </Box>
@@ -140,16 +140,16 @@ const Footer = ({ siteTitle }) => (
       <Copyright color="#2d3748" boxShadow="0 5px 30px rgba(127, 0, 255, 0.15)">
         <p>
           {" "}
-          Glug Infinite © {new Date().getFullYear()} Made with{" "}
+          MJCooper © {new Date().getFullYear()} Contributed with{" "}
           <span role="img" aria-label="heart">
             ❤️
           </span>{" "}
           &{" "}
-          <span role="img" aria-label="hammer">
-            🔨
+          <span role="img" aria-label="heart">
+            ❤️
           </span>{" "}
           by
-          <Links href="https://github.com/crstnmac">Cris</Links>
+          <Links href="https://github.com/MJChku">Cooper</Links>
         </p>
       </Copyright>
     </Container>
