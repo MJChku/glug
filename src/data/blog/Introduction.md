@@ -2,7 +2,7 @@
 path: "/blog-demo"
 date: 1997-12-20
 title: "Introduction"
-cover: "./universe.jpg"
+cover: "./me.jpg"
 ---
 [*This is an introduction of myself*]
 ***
