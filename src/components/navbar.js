@@ -19,7 +19,7 @@ const NavBar = styled.div`
 `
 
 const Links = styled(Link)({
-  color: "#7a49ff",
+  color: "#fa7acd",
   textDecoration: "none",
   padding: "0.5em",
 })
@@ -49,14 +49,14 @@ const Header = ({ siteTitle }) => (
       <NavBar>
         <Text fontWeight="bold" p={4}>
           <Links to="/">
-            <Logo>glug infinite</Logo>
+            <Logo>MJCooper</Logo>
           </Links>
         </Text>
         <Box mx="auto" />
         <MenuItems p={[6, 2, 2]}>
-          <Links variant="nav" to="/team" activeClassName="borderMarker">
-            <Text fontSize={[3, 4, 4]}>Team</Text>
-          </Links>
+//           <Links variant="nav" to="/team" activeClassName="borderMarker">
+//             <Text fontSize={[3, 4, 4]}>Team</Text>
+//           </Links>
           <Links variant="nav" to="/blog" activeClassName="borderMarker">
             <Text fontSize={[3, 4, 4]}>Blog</Text>
           </Links>
