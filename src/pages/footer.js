@@ -6,7 +6,7 @@ const Foot = styled(Box)({
   fontFamily: "Varela Round, sans-serif",
   width: "100%",
   flexWrap: "wrap",
-  background: "black",
+  background: "white",
 })
 
 const Lnks = styled.span`
