@@ -15,7 +15,6 @@ const NavBar = styled.div`
   align-items: center;
   background-color: white;
   box-shadow: 0 5px 30px rgba(127, 0, 255, 0.15);
-  border-top: 6px solid #7a49ff;
 `
 
 const Links = styled(Link)({
