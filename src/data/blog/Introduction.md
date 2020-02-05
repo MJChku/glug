@@ -1,5 +1,5 @@
 ---
-path: "/blog-demo"
+path: "/me"
 date: 1997-12-20
 title: "Introduction"
 cover: "./me.jpg"
