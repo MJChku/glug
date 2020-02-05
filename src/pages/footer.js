@@ -7,6 +7,7 @@ const Foot = styled(Box)({
   width: "100%",
   flexWrap: "wrap",
   background: "white",
+  boxShadow: "0 2px 10px rgba(127, 0, 255, 0.15)",
 })
 
 const Lnks = styled.span`
