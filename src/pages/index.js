@@ -21,6 +21,9 @@ const IndexPage = () => (
         <strong> 
         {" "}    
         This is the secret place where I write my stories...
+        To fillup the space,
+        I need to keep writing..
+  
         {" "}
   
        </strong>
