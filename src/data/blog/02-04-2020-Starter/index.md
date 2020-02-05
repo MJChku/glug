@@ -1,5 +1,5 @@
 ---
-path: "/blog-demo"
+path: "/without-phone1"
 date: 2020-02-04
 title: "Starter Experiment"
 cover: "./universe.jpg"
