@@ -23,9 +23,9 @@ const IndexPage = () => (
       flexFlow="column"
       justifyContent="space-around"
     >
-      <Top />
+//       <Top />
       <Middle />
-      <Bottom />
+   //   <Bottom />
     </Box>
   </Layout>
 )
