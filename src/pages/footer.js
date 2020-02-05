@@ -98,9 +98,9 @@ const Footer = ({ siteTitle }) => (
           lineHeight="1.2em"
         >
           {" "}
-          <strong> Libre Not </strong>
+          <strong> Liberty </strong>
           <br />
-          <strong> Gratis </strong>{" "}
+          <strong> rise </strong>{" "}
         </Text>
       </Column>
       <Column>
