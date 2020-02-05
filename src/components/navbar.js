@@ -55,7 +55,7 @@ const Header = ({ siteTitle }) => (
         <Box mx="auto" />
         <MenuItems p={[6, 2, 2]}>
           <Links variant="nav" to="/blog" activeClassName="borderMarker">
-            <Text fontSize={[3, 4, 4]}>Littel Story</Text>
+            <Text fontSize={[3, 4, 4]}>Little Story</Text>
           </Links>
         </MenuItems>
       </NavBar>
