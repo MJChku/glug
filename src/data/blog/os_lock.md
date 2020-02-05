@@ -2,7 +2,7 @@
 path: "/blog-demo"
 date: 2020-01-28
 title: "Introduction"
-cover: "./universe.jpg"
+cover: "./os.jpg"
 ---
 [*My recent work on locking in Os class*]
 
