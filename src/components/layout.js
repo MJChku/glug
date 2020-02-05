@@ -16,7 +16,7 @@ export default function Layout({ children }) {
               marginTop="90px"
               minHeight="100%"
               marginBottom="60px"
-             
+              className="main-container"
               color="#000"
             >
               {children}
