@@ -20,9 +20,13 @@ const IndexPage = () => (
     <TT justifyContent="center" textAlign="center" fontWeight="500">
         <strong> 
         {" "}    
+         <br />
         This is the secret place where I write my stories...
+          <br />      
         To fillup the space,
-        I need to keep writing..
+          <br />
+        I need to keep writing.. 
+         <br />
   
         {" "}
   
