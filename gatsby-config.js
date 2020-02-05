@@ -1,20 +1,20 @@
 module.exports = {
   siteMetadata: {
-    title: `Glug Infinite`,
-    description: `FOSS Club`,
-    author: `@github:crstnmac`,
-    siteUrl: 'https://gluginfinite.github.io',
+    title: `Jiacheng's Story`,
+    description: `story telling`,
+    author: `ma jiacheng`,
+    siteUrl: 'https://jiacma.netlify.com',
     events: {
-      title: 'Glug-Infinite - Events',
-      siteUrl: 'https://gluginfinite.github.io/events',
+      title: 'MJC',
+      siteUrl: 'https://jiacma.netlify.com/events',
     },
     team: {
-      title: 'Glug-Infinite - Team',
-      siteUrl: 'https://gluginfinite.github.io/team',
+      title: 'MJC',
+      siteUrl: 'https://jiacma.netlify.com/team',
     },
     blog: {
-      title: 'Glug-Infinite - Blog',
-      siteUrl: 'https://gluginfinite.github.io/blog',
+      title: 'MJC',
+      siteUrl: 'https://jiacma.netlify.com/blog',
     },
   },
   plugins: [
