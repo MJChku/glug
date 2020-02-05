@@ -54,9 +54,6 @@ const Header = ({ siteTitle }) => (
         </Text>
         <Box mx="auto" />
         <MenuItems p={[6, 2, 2]}>
-//           <Links variant="nav" to="/team" activeClassName="borderMarker">
-//             <Text fontSize={[3, 4, 4]}>Team</Text>
-//           </Links>
           <Links variant="nav" to="/blog" activeClassName="borderMarker">
             <Text fontSize={[3, 4, 4]}>Blog</Text>
           </Links>
