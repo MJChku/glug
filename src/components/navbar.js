@@ -23,19 +23,6 @@ const Links = styled(Link)({
   padding: "0.5em",
 })
 
-const Name = styled.a`
-  fontFamily: "Montserrat",
-  color: #F650AF;
-  text-decoration: none;
-  font-weight: bold;
-   fontSize: "1.6em",
-  transition: all 1s;
-  &:hover {
-    text-shadow: 0 8px 14px rgba(127, 0, 255, 0.15);
-    color: #44AAEE;
-  }
-`
-
 const Logo = styled(Text)({
   fontFamily: "Montserrat",
   fontWeight: "bold",
@@ -59,7 +46,7 @@ const Header = ({ siteTitle }) => (
       <NavBar>
         <Text fontWeight="bold" p={4}>
           <Links to="/">
-            <Name>MJCooper</Name>
+            <Logo>MJCooper</Logo>
           </Links>
         </Text>
         <Box mx="auto" />
