@@ -23,13 +23,30 @@ const Links = styled(Link)({
   padding: "0.5em",
 })
 
+const Links = styled.a`
+  display: flex;
+  color: #F650AF;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.5em;
+  line-height: 1.1em;
+  padding: 10px;
+  text-align: center;
+  transition: all 1s;
+  justify-content: center;
+  &:hover {
+    text-shadow: 0 8px 14px rgba(127, 0, 255, 0.15);
+    color: #44AAEE;
+  }
+`
+
 const Logo = styled(Text)({
   fontFamily: "Montserrat",
   fontWeight: "bold",
   filter: "drop-shadow(-0px 0px 15px rgba(53, 42, 87, 0.3))",
   fontSize: "1.6em",
-  &:hover {
-    text-shadow: 0 8px 14px rgba(127, 0, 255, 0.15);
+  hover: {
+    text-shadow: "0 8px 14px rgba(127, 0, 255, 0.15);
     color: #44AAEE;
   }
 })
