@@ -2,7 +2,7 @@
 path: "/blog-demo"
 date: 2020-02-04
 title: "Starter Experiment"
-cover: "./universe.png"
+cover: "./universe.jpg"
 ---
 [*This is a experiment about not distracted by phone*]
 ***
