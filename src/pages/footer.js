@@ -31,7 +31,7 @@ const Lnks = styled.span`
 
   &:hover::before {
     transform: scaleY(1);
-    background-color: #7a49ff;
+    background-color: #F650AF;
   }
 `
 
@@ -41,7 +41,6 @@ const Container = styled.div`
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  border-bottom: 6px solid #7a49ff;
   filter: drop-shadow(-0px 0px 15px rgba(53, 42, 87, 0.3));
 `
 
@@ -58,7 +57,7 @@ const Links = styled.a`
   justify-content: center;
   &:hover {
     text-shadow: 0 8px 14px rgba(127, 0, 255, 0.15);
-    color: #7a49ff;
+    color: #44AAEE;
   }
 `
 
