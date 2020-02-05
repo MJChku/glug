@@ -58,8 +58,8 @@ const Heading = styled(Box)({
 const BlogsPage = ({ data, readTime }) => (
   <Layout>
     <SEO title="Blog" />
-    <Box alignSelf="center" mx="auto" paddingTop="60px" color="#2d3748">
-      <Heading>Blog</Heading>
+    <Box alignSelf="center" mx="auto" paddingTop="60px" color="#FB57F1">
+      <Heading>Now My Stories ...</Heading>
 
       <OutContainer>
         <Container>{getBlogs(data, readTime)}</Container>
