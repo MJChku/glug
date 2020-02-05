@@ -17,6 +17,7 @@ export default function Layout({ children }) {
               minHeight="100%"
               marginBottom="60px"
               className="main-container"
+              color="black"
             >
               {children}
             </Box>
