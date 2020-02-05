@@ -5,6 +5,7 @@ import Top from "./Home/top"
 import Middle from "./Home/middle"
 import Bottom from "./Home/bottom"
 import { Box } from "rebass"
+import styled from "styled-components"
 
 const TT = styled(Text)({
   fontFamily: "Montserrat",
