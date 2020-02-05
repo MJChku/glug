@@ -23,17 +23,13 @@ const Links = styled(Link)({
   padding: "0.5em",
 })
 
-const Links = styled.a`
-  display: flex;
+const Name = styled.a`
+  fontFamily: "Montserrat",
   color: #F650AF;
   text-decoration: none;
-  font-weight: 600;
-  font-size: 1.5em;
-  line-height: 1.1em;
-  padding: 10px;
-  text-align: center;
+  font-weight: bold;
+   fontSize: "1.6em",
   transition: all 1s;
-  justify-content: center;
   &:hover {
     text-shadow: 0 8px 14px rgba(127, 0, 255, 0.15);
     color: #44AAEE;
@@ -44,10 +40,6 @@ const Logo = styled(Text)({
   fontFamily: "Montserrat",
   fontWeight: "bold",
   fontSize: "1.6em",
-  hover: {
-    text-shadow: "0 8px 14px rgba(127, 0, 255, 0.15);
-    color: #44AAEE;
-  }
 })
 
 const MenuItems = styled(Text)({
@@ -67,7 +59,7 @@ const Header = ({ siteTitle }) => (
       <NavBar>
         <Text fontWeight="bold" p={4}>
           <Links to="/">
-            <Logo>MJCooper</Logo>
+            <Name>MJCooper</Name>
           </Links>
         </Text>
         <Box mx="auto" />
