@@ -9,6 +9,9 @@ import { Box } from "rebass"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
+    <p>
+      This the secret place where I write my stories...
+    </p>
   </Layout>
 )
 
