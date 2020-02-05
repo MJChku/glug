@@ -10,18 +10,7 @@ export default function Layout({ children }) {
   return (
     <ThemeContext.Consumer>
       {theme => (
-        <div>
-            <Navbar />
-            <Box
-              marginTop="90px"
-              minHeight="100%"
-              marginBottom="60px"
-              className="main-container"
-            >
-              {children}
-            </Box>
-            <Footer className="footer"></Footer>
-        </div>
+        
       )}
     </ThemeContext.Consumer>
   )
