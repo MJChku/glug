@@ -23,7 +23,7 @@ const Lnks = styled.span`
     bottom: 0;
     left: -0.25em;
     right: -0.25em;
-    background-color: #7a49ff;
+    background-color: #F650AF;
     transform-origin: bottom center;
     transform: scaleY(0);
     transition: all 0.1s ease-in-out;
@@ -47,7 +47,7 @@ const Container = styled.div`
 
 const Links = styled.a`
   display: flex;
-  color: #7a49ff;
+  color: #F650AF;
   text-decoration: none;
   font-weight: 600;
   font-size: 1.5em;
@@ -67,7 +67,7 @@ const Column = styled.div`
     -webkit-box-flex: 1;
     -ms-flex: 1 0 290px;
       flex: 1 0 290px;
-      color: #7a49ff;
+      color: #F650AF;
       padding="70px 0";
   -webkit-box-sizing: border-box;
       box-sizing: border-box;
@@ -113,9 +113,6 @@ const Footer = ({ siteTitle }) => (
           <Links href="https://mjcooper.netlify.com/">
             <Lnks>CV site</Lnks>
           </Links>
-//           <Links href="https://gist.github.com/crstnmac/8c7a493530ca799feb83487a5bd234f9">
-//             <Lnks>Community Guidelines</Lnks>
-//           </Links>
         </Box>
       </Column>
       <Column>
