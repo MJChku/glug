@@ -6,12 +6,18 @@ import Middle from "./Home/middle"
 import Bottom from "./Home/bottom"
 import { Box } from "rebass"
 
+const TT = styled(Text)({
+  fontFamily: "Montserrat",
+  fontWeight: "bold",
+  filter: "drop-shadow(-0px 0px 15px rgba(53, 42, 87, 0.3))",
+  fontSize: "1.6em",
+})
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-  <Text justifyContent="center" textAlign="center" fontWeight="500">
+    <TT justifyContent="center" textAlign="center" fontWeight="500">
             <strong> This the secret place where I write my stories...</strong>
-    </Text>
+    </TT>
   
   </Layout>
 )
