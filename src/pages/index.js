@@ -9,24 +9,6 @@ import { Box } from "rebass"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <Box
-      height="100%"
-      width={["100%", "80%", "80%"]}
-      marginLeft="auto"
-      marginRight="auto"
-      paddingTop="60px"
-      color="#2d3748"
-      fontFamily="Varela Round, sans-serif"
-      display="flex"
-      flexDirection="row"
-      flexWrap="wrap"
-      flexFlow="column"
-      justifyContent="space-around"
-    >
-//       <Top />
-      <Middle />
-   //   <Bottom />
-    </Box>
   </Layout>
 )
 
