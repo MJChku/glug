@@ -1,7 +1,7 @@
 ---
-path: "/blog-demo"
+path: "/oslock"
 date: 2020-01-28
-title: "Introduction"
+title: "Os lock"
 cover: "./os.jpg"
 ---
 [*My recent work on locking in Os class*]
