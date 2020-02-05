@@ -10,6 +10,8 @@ export default function Layout({ children }) {
   return (
     <ThemeContext.Consumer>
       {theme => (
+       <div>
+       </div>
         
       )}
     </ThemeContext.Consumer>
