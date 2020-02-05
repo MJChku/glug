@@ -43,7 +43,6 @@ const Links = styled.a`
 const Logo = styled(Text)({
   fontFamily: "Montserrat",
   fontWeight: "bold",
-  filter: "drop-shadow(-0px 0px 15px rgba(53, 42, 87, 0.3))",
   fontSize: "1.6em",
   hover: {
     text-shadow: "0 8px 14px rgba(127, 0, 255, 0.15);
@@ -60,7 +59,6 @@ const MenuItems = styled(Text)({
   margin: "auto",
   alignItems: "center",
   alignSelf: "center",
-  filter: "drop-shadow(-0px 0px 15px rgba(53, 42, 87, 0.3))",
 })
 
 const Header = ({ siteTitle }) => (
