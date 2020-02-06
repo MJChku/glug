@@ -89,7 +89,7 @@ const Footer = ({ siteTitle }) => (
     <Container>
       
       <Column>
-        <Box fontSize="1.6em" padding="40px 0" margin="20px">
+        <Box fontSize="1.6em" padding="10px 0" margin="10px">
 
           <Text
             fontSize="0.8em"
@@ -98,7 +98,6 @@ const Footer = ({ siteTitle }) => (
             fontWeight="500"
           >
             <strong>
-              {" "}
               Love is hard
             </strong>
           </Text>
@@ -108,7 +107,6 @@ const Footer = ({ siteTitle }) => (
         <p>
           {" "}
           Jiacheng © {new Date().getFullYear()}
-          <Links href="https://github.com/MJChku">Cooper</Links>
         </p>
       </Copyright>
     </Container>
