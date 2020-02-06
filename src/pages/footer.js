@@ -87,38 +87,9 @@ const Copyright = styled(Box)({
 const Footer = ({ siteTitle }) => (
   <Foot>
     <Container>
-      <Column>
-        <Text
-          justifyContent="center"
-          textAlign="center"
-          fontWeight="500"
-          fontSize="3em"
-          padding="40px 0"
-          lineHeight="1.2em"
-        >
-          {" "}
-          <strong> Liberty </strong>
-          <br />
-          <strong> rise </strong>{" "}
-        </Text>
-      </Column>
-      <Column>
-        <Box padding="30px 0">
-          <Links href="https://www.linkedin.com/in/jiacheng-ma-b3a601168/?originalSubdomain=hk">
-            {" "}
-            <Lnks>LinkedIn</Lnks>
-          </Links>
-
-          <Links href="https://mjcooper.netlify.com/">
-            <Lnks>CV site</Lnks>
-          </Links>
-        </Box>
-      </Column>
+      
       <Column>
         <Box fontSize="1.6em" padding="40px 0" margin="20px">
-          <Text justifyContent="center" textAlign="center" fontWeight="500">
-            <strong>MJCooper</strong>
-          </Text>
 
           <Text
             fontSize="0.8em"
@@ -128,7 +99,7 @@ const Footer = ({ siteTitle }) => (
           >
             <strong>
               {" "}
-              Love and Peace -971220
+              Love is hard
             </strong>
           </Text>
         </Box>
@@ -136,15 +107,9 @@ const Footer = ({ siteTitle }) => (
       <Copyright color="#2d3748">
         <p>
           {" "}
-          MJCooper © {new Date().getFullYear()} Contributed with{" "}
-          <span role="img" aria-label="heart">
-            ❤️
-          </span>{" "}
-          &{" "}
-          <span role="img" aria-label="heart">
-            ❤️
-          </span>{" "}
-          by
+          Jiacheng © {new Date().getFullYear()}
+         
+          {" ”｝
           <Links href="https://github.com/MJChku">Cooper</Links>
         </p>
       </Copyright>
