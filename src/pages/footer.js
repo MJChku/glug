@@ -107,7 +107,8 @@ const Footer = ({ siteTitle }) => (
         <p>
           {" "}
           Jiacheng © {new Date().getFullYear()}
-        </p>
+         <Links href="https://github.com/MJChku">Cooper</Links>
+       </p>
       </Copyright>
     </Container>
   </Foot>
