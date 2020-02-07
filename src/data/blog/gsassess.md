@@ -2,7 +2,7 @@
 path: "/online-assessment"
 date: 2020-02-06
 title: "A midnight assessment" 
-cover: "./gs"
+cover: "./gs.png"
 ---
 
 ## [Midnight Assessment]
