@@ -1,7 +1,8 @@
 ---
-'path':'/transformation'
-'title':'Cost of “Perfection” in Transformation '
-'date':2020-02-14
+path:"/transformation"
+title:"Cost of \“Perfection\” in Transformation"
+date: 2020-02-14
+cover: "./swan"
 ---
 Among the stories I love the swan lake and birthmark most, because they are more complex, odd and astonishing in some sense. The topic is inspired by how protagonists hold on to their believes while go through the tortures. Those believes are certainly twisted if put in real life, but the very truth that they exist only in stories bolsters their attractiveness.  
 
