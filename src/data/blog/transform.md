@@ -1,9 +1,11 @@
 ---
-path:"/transformation"
-title:"Cost of \“Perfection\” in Transformation"
+path: "/transformation"
+title: "Cost of Perfection in Transformation"
 date: 2020-02-14
 cover: "./swan.jpg"
 ---
+
+## Cost of Perfection in Transformation
 Among the stories I love the swan lake and birthmark most, because they are more complex, odd and astonishing in some sense. The topic is inspired by how protagonists hold on to their believes while go through the tortures. Those believes are certainly twisted if put in real life, but the very truth that they exist only in stories bolsters their attractiveness.  
 
 The protagonists in those stories all move toward perfection, regardless of some failure. But charming stories cloak the complex reasons of transformation and true reasons for enduring the cost.  Whether roles in the stories noticed the cost or they were just never able to perceive it, the cost did come in the process and they stick to the transformation regardless the risk. And it would be worth to investigate the reasons. 
