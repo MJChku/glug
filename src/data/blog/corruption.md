@@ -1,9 +1,10 @@
 ---
-path:"/corrutption"
-date:2020-02-14
+path: "/corrutption"
+date: 2020-02-14
 title: "Connection and Reflection on Corruption and Economic Growth"
-cover:"./corruption.jpeg"
+cover: "./corruption.jpeg"
 ---
+
 ## Connection and Reflection on Corruption and Economic Growth   
 
 In the book “A Double Paradox”, it says, in economy, negative relationship between corruption and economic growth is generally robust and tested (Wedeman, 2012). But different countries who share the contradictory feature that economy grows as corruption intensifies, require different explanation. Developmental corruption, exemplified by cases including Japan, Korea and Taiwan, reveals the symbiotic relation between the two parts who form a coalition (Wedeman, 2012). Whereas predatory corruption, extracts a toll, irrespective of economy status, like the Zaire case, and without regard for promoting economy in any ways, to which the type of corruption in China resembles in Wedeman’s words. It is arguable whether predatory corruption of China is true or not. Another issue is that the relationship between corruption and economic growth, whether symbiotic or parasitic, remains unclear.  To justify the corruption type in China and derive a conclusion as to symbiotic or parasitic, this essay will connect some papers mainly in political and economic perspective, and extrapolate a little bit.    
