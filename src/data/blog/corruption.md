@@ -2,7 +2,7 @@
 path: "/corrutption"
 date: 2020-02-14
 title: "Connection and Reflection on Corruption and Economic Growth"
-cover: "./corruption.jpeg"
+cover: "./corruption.jpg"
 ---
 
 ## Connection and Reflection on Corruption and Economic Growth   
