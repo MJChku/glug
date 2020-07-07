@@ -2,7 +2,6 @@
 path: "/graduate"
 title: "Graduation"
 date: 2020-03-06
-cover: "./self.jpg"	
 ---
 毕业寄语：
 
